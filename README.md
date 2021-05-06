@@ -2,6 +2,8 @@
 
 Design Patterns Implemented In Java.
 
--Behavioral
--Structural
--Creational
+# What I Learned
+
+- Behavioral Patterns
+- Creational Patterns
+- Structural Patterns
